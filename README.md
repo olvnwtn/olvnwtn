@@ -1,13 +1,9 @@
 ### Hi, I'm Olivia. 
 
-Welcome to my GitHub profile. I primarily use this account for research projects and teaching materials. 
-
-My research spans the social and computational sciences. I'm interested in modeling human and technical aspects of collaboration in knowledge work domains that produce technological innovations. Currently, I co-lead a project focused on examining and enhancing teamwork and software in scientific computing. I also contribute to research projects on team learning in scientific software development and use, psychological fidelity in simulation-based training, and expertise utilization in hybrid teams.
-
-Feel free to contact me (onewton at sigsoft dot org) about potential collaborations.
+Welcome to my GitHub profile. I use this account for research projects and teaching materials. 
 
 <!--
-**small0live/small0live** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**olvnwtn/olvnwtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
