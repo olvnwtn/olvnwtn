@@ -1,4 +1,4 @@
-### Hi, I'm Olivia. 
+### Hola, I'm Olivia. 
 
 Welcome to my GitHub profile. I use this account for research projects and teaching materials. 
 
