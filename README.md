@@ -1,6 +1,6 @@
 ### Hola, I'm Olivia. 
 
-Welcome to my GitHub profile. I use this account for research projects and teaching materials. 
+
 
 <!--
 **olvnwtn/olvnwtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
