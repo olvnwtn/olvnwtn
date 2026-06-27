@@ -1,6 +1,6 @@
 ### Hola, I'm Olivia. 
 
-I'm an interdisciplinary scientist and instructor in Management Information Systems at the University of Montana. I teach graduate students how to use computing and statistical tools in their professional work. 
+I'm an interdisciplinary scientist and instructor in Management Information Systems at the University of Montana. I teach graduate students how to use computing and statistics in their professional work. 
 
 Check out [my website](https://oliviabnewton.com) to learn about my research projects. You can reach me through email at onewton@sigsoft.org.
 
